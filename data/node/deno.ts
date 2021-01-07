@@ -35,7 +35,7 @@ export default {
           url: 'https://marketplace.visualstudio.com/items?itemName=denoland.vscode-deno',
           language: [
             '',
-            '',
+            '', 
             'https://github.com/denoland/vscode_deno'
           ]
         },
