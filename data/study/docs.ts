@@ -129,13 +129,13 @@ export default {
           icon: 'https://avatars1.githubusercontent.com/u/14127308?s=200&v=4',
           name: '免费的编程中文书籍索引',
           desc: '免费的编程中文书籍索引',
-          url: 'https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md',
+          url: 'https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-zh.md',
         },
         {
           icon: 'https://zh.b-ok.global/apple-touch-icon.png',
           name: 'Zlibrary',
           desc: 'Z-Library 项目部分. 全球最大的数字图书馆, 电子书',
-          url: 'https://zh.b-ok.global/',
+          url: 'https://zh.booksc.xyz/',
         },
         {
           name: 'IT-eBOOK',
