@@ -63,6 +63,12 @@ export default {
           desc: '编程狮，是一个专业的W3C前端开发及编程入门学习平台',
           url: 'https://www.w3cschool.cn/',
         },
+        {
+            icon: 'https://www.kuangstudy.com/favicon.ico',
+            name: 'kuangstudy',
+            desc: '为每个想学习知识的人提供一个少走弯路的平台',
+            url: 'https://www.kuangstudy.com/',
+        },
       ]
     }
   ]
